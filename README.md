@@ -1,7 +1,10 @@
-!![11](https://github.com/user-attachments/assets/5003ed7e-2b2d-418e-9361-eeb3837c094b)
-![222222222222](https://github.com/user-attachments/assets/a45463fd-fc42-4aff-8b2c-dbccf5b2ded4)
-![3333333333333](https://github.com/user-attachments/assets/1cca7714-9ff4-4aff-861d-f4b69fa286ec)
-![4444444444444](https://github.com/user-attachments/assets/977bb870-ad32-4bd1-a091-82aa41167023)
-![5555555555](https://github.com/user-attachments/assets/a1ed2389-74b8-4669-ba36-d77f3bbc95db)
-There was an error in my docker desktop due to time i skipped the build 
-![66666666](https://github.com/user-attachments/assets/0b59d57c-b862-467a-a378-0933e29effbe)
+![11](https://github.com/user-attachments/assets/7fa2503e-df91-4fca-b023-6ec4dcef5c59)
+![222222222222](https://github.com/user-attachments/assets/8d3ee175-f256-4531-b0f8-cc5cbda0ad8b)
+![3333333333333](https://github.com/user-attachments/assets/b0e9a65f-8834-48a2-919e-9396fb7d3232)
+![4444444444444](https://github.com/user-attachments/assets/fb981d7e-c089-42de-96d0-3b4ba2a28d65)
+![5555555555](https://github.com/user-attachments/assets/7d0c2045-08b0-414b-86d4-46cd55725b17)
+
+
+
+**There was an error in my docker desktop due to time i skipped the build **
+![66666666](https://github.com/user-attachments/assets/2a8aaa3b-3ad3-4855-ba8d-8295bd186786)
